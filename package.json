@@ -1,6 +1,6 @@
 {
   "name": "@libra-lei/cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "project cli",
   "bin": {
