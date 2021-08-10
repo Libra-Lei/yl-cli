@@ -4,7 +4,7 @@
   "private": false,
   "description": "project cli",
   "bin": {
-    "yl-cli": "./bin/cli"
+    "yl-cli": "./bin/cli.js"
   },
   "keywords": [
     "vue",
