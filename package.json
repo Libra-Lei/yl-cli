@@ -17,7 +17,7 @@
     "url": "https://github.com/Libra-Lei/yl-cli/issues"
   },
   "homepage": "https://github.com/Libra-Lei/yl-cli",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^8.1.0",
     "consolidate": "^0.16.0",
@@ -38,5 +38,5 @@
   "engines": {
     "node": "^12.0.0 || >= 14.0.0"
   },
-  "dependencies": {}
+  "devDependencies": {}
 }
