@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": false,
   "description": "project cli",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "yl-cli": "./bin/cli"
   },
   "keywords": [
     "vue",
